@@ -91,7 +91,7 @@ padding: 15px;
 }
 .main2{
     height: auto;
-    width: 100%;
+    width: auto;
 }
 .des1{
     height: 550px;
@@ -300,4 +300,9 @@ img {vertical-align: middle;}
     background-color: black;
     border: none;
     outline: none;
+}
+.text1{
+color: black;
+font-family: 'Times New Roman', Times, serif;
+font-size: 40px;
 }
